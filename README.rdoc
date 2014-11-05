@@ -22,11 +22,12 @@ Requirements to launch:
 
 How to run the App
 
-i. First, clone this repository locally
-ii. Then run "bundle install" from the project directory
-iii. Run "bundle exec rake db:migrate" or "rake db migrate"
-iv. Start your server using "rails server"
-v. Navigate to "localhost:3000" and interact with the app
+1. First, clone this repository locally 
+2. Then run "bundle install" from the project directory 
+3. Run "bundle exec rake db:migrate" or "rake db migrate" 
+4. Start your server using "rails server" 
+5. Navigate to "localhost:3000" and interact with the app
+
 
 * ...
 
