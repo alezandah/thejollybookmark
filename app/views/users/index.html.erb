@@ -1,0 +1,4 @@
+<h1>Users</h1>
+<% @users.each do |user| %>
+	<p><%= "#{user.email}, since #{time_ago_in_words(user.created_at)} ago" %> </p>
+<% end %>
