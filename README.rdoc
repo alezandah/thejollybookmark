@@ -1,25 +1,23 @@
-== README
+== README, The Case of the Jolly Bookmark
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This web app is about to be released live on the web, but the programmer made a few mistakes.
 
-Things you may want to cover:
+They are not aware of this.
 
-* Ruby version
+The app allows a user to login and save bookmarks, as well as view bookmarks posted by others using the app.
 
-* System dependencies
+Please help them fix the issues by testing the app manually, as well as writing some automated tests.
 
-* Configuration
+Check for the 5 things below.
 
-* Database creation
+Requirements to launch:
 
-* Database initialization
+1. The Index page contains a button with a link to view the current user’s profile
+2. The index page requires you to be logged in.
+3. A logged in user can delete a bookmark
+4. Any user can add a bookmark.
+5. There is a welcome message once a user logs in welcoming them to the application.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * ...
 
