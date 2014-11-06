@@ -35,11 +35,11 @@ gem 'autoprefixer-rails'
 
 
 group :development, :test do
-	gem 'rspec-rails', '~> 3.0.2'
+	gem 'rspec-rails', '2.9.0'
 end
 
 group :test do
-	gem 'capybara', '~> 2.4.1'
+	gem 'capybara', '1.1.2'
 end
 
 # Use ActiveModel has_secure_password

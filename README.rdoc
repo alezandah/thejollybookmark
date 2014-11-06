@@ -12,12 +12,11 @@ Check for the 5 things below.
 
 Requirements to launch:
 
-1. The Index page contains a button with a link to view the current user’s profile
+1. The Index page contains a button with a link to view the user index view
 2. The index page requires you to be logged in.
 3. A logged in user can delete a bookmark
 4. Any user can add a bookmark.
 5. There is a welcome message once a user logs in welcoming them to the application.
-
 
 
 How to run the App
